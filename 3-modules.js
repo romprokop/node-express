@@ -7,12 +7,12 @@ const data = require('./6-alternative-flavor');
 require('./7-mind-grenade');
 
 //local variable
- const users = [rom, alex, serhiy];
+const users = [rom, alex, serhiy];
 
 
- // users.map((user) => {
- //    console.log(sayHi(user))
- // });
+// users.map((user) => {
+//    console.log(sayHi(user))
+// });
 
 
 console.log('data', {data, users});
